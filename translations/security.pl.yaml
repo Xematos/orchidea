@@ -1,0 +1,3 @@
+# translations/security.pl.yaml
+'Invalid credentials.': 'Błędne hasło!'
+'Użytkownik o podanej nazwie nie istnieje.': 'błędny email'

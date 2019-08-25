@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="projekt">
+    <serverData>
+      <paths name="projekt">
+        <serverdata>
+          <mappings>
+            <mapping deploy="symfony-project" local="$PROJECT_DIR$" web="/symfony-project" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

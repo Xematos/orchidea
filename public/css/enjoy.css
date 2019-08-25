@@ -1,0 +1,21 @@
+.enjoy-css {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    width: 300px;
+    height: 300px;
+    border: none;
+    font: normal 16px/1 "Times New Roman", Times, serif;
+    color: rgba(255,255,255,1);
+    text-align: center;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    background: url("https://pixabay.com/get/55e0d3404d56a914f6d1867dda6d367d163dd7e753596c4870297edd9444c55cbe/plant-3063745_1920.jpg"), url("https://enjoycss.com/bg-img/default/3_6.png");
+    background-position: 50% 50%;
+    -webkit-background-origin: padding-box;
+    background-origin: padding-box;
+    -webkit-background-clip: border-box;
+    background-clip: border-box;
+    -webkit-background-size: cover, auto auto;
+    background-size: cover, auto auto;
+}
